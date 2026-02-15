@@ -52,7 +52,7 @@ Mon profil est hybride : je combine une expertise technique en développement av
 ## 🇬🇧 English Version
 
 ### 🚀 About Me
-Student in **BTS SIO (Software Solutions)** and **Valedictorian** (Rank 1/28), I am currently an apprentice in the Finance Department at **Disneyland Paris**.
+Student in **BTS SIO (Software Solutions)** and **Valedictorian** (Rank 1/28), I am currently an apprentice in the Finance Department at **Disneyland Paris** as a **Financial Planning & Reporting Apprentice**.
 
 My profile is hybrid: I combine technical expertise in development with an understanding of financial stakes (budgets, closings). I am now aiming for the **L3 MIAGE at La Sorbonne** to specialize in Data Engineering.
 
