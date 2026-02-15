@@ -88,10 +88,10 @@ My profile is hybrid: I combine technical expertise in development with an under
 ---
 
 <div align="center">
-  <a href="https://zarathmgd.github.io/portfolio/" target="_blank">
+  <a href="https://zarathmgd.github.io/portfolio/" rel="nofollow">
     <img src="https://img.shields.io/badge/Portfolio-Zwz?style=for-the-badge&logo=google-chrome&logoColor=white&color=20232A" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/zarathmougamadou/" target="_blank">
+  <a href="https://www.linkedin.com/in/zarathmougamadou/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zarathmougamadou@gmail.com">
