@@ -2,7 +2,7 @@
   <h1 align="center">Salut, je suis Zarath Mougamadou ! 👋</h1>
   <h3>Apprenti Financial Planning & Reporting @ Disneyland Paris | Futur Data Engineer</h3>
   
-  <a href="#-version-française">🇫🇷 Version Française</a> • <a href="#-english-version">🇬🇧 English Version</a>
+  <a href="#-version-française">🇫🇷 Version Française</a> • <a href="#-english-version">🇺🇸 English Version</a>
 </div>
 
 <br/>
@@ -12,16 +12,16 @@
 <a name="-version-française"></a>
 ## 🇫🇷 Version Française
 
-### 🚀 À propos de moi
+### À propos de moi
 Étudiant en **BTS SIO (option SLAM)** et **Major de promotion**, je suis actuellement en alternance à la Direction Financière de **Disneyland Paris** en tant que **Financial Planning & Reporting Apprentice**.
 
-Mon profil est hybride : je combine une expertise technique en développement avec une compréhension des enjeux financiers (budgets, clôtures). Je vise désormais la **L3 MIAGE à la Sorbonne** pour me spécialiser en Ingénierie des Données.
+Mon profil est hybride : je combine une expertise technique en développement avec une compréhension des enjeux financiers (budgets, clôtures). Je vise désormais la **L3 MIAGE de l'université Paris 1 Panthéon-Sorbonne** pour me spécialiser en Ingénierie des Données.
 
-* 🔭 **En ce moment :** J'automatise les processus de clôture mensuelle et fiabilise les données financières.
-* 🌱 **J'apprends :** Le Data Engineering avancé (**Python**, **Docker**, **PostgreSQL**) et l'architecture de données.
-* 🎯 **Objectif :** Devenir un Data Engineer.
+* **En ce moment :** J'automatise les processus de clôture mensuelle et fiabilise les données financières.
+* **J'apprends :** Le Data Engineering avancé (**Python**, **Docker**, **PostgreSQL**) et l'architecture de données.
+* **Objectif :** Devenir un Data Engineer.
 
-### 🛠️ Compétences Techniques
+### Compétences Techniques
 
 **Data & Backend :**
 <br/>
@@ -40,7 +40,7 @@ Mon profil est hybride : je combine une expertise technique en développement av
 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
-### 📂 Projets Phares
+### Projets Phares
 
 * **Weather Data ETL :** Un pipeline ELT complet utilisant Python, PostgreSQL et Docker pour l'analyse logistique.
 * **Portfolio :** Mon espace personnel développé avec React, TypeScript et Framer Motion. [Voir le site](https://zarathmgd.github.io/portfolio/)
@@ -49,18 +49,18 @@ Mon profil est hybride : je combine une expertise technique en développement av
 ---
 
 <a name="-english-version"></a>
-## 🇬🇧 English Version
+## 🇺🇸 English Version
 
-### 🚀 About Me
-Student in **BTS SIO (Software Solutions)** and **Valedictorian** (Rank 1/28), I am currently an apprentice in the Finance Department at **Disneyland Paris** as a **Financial Planning & Reporting Apprentice**.
+### About Me
+Student in **BTS SIO (Software Solutions)** and **Valedictorian**, I am currently an apprentice in the Finance Department at **Disneyland Paris** as a **Financial Planning & Reporting Apprentice**.
 
-My profile is hybrid: I combine technical expertise in development with an understanding of financial stakes (budgets, closings). I am now aiming for the **L3 MIAGE at La Sorbonne** to specialize in Data Engineering.
+My profile is hybrid: I combine technical expertise in development with an understanding of financial stakes (budgets, closings). I am now aiming for the **L3 MIAGE at University of Paris 1 Pantheon-Sorbonne** to specialize in Data Engineering.
 
-* 🔭 **Currently:** I am automating monthly closing processes and securing financial data reliability using **UiPath**, **Power Query**, and **SQL**.
-* 🌱 **Learning:** Advanced Data Engineering (**Python**, **Docker**, **PostgreSQL**) and data architecture.
-* 🎯 **Goal:** Become a Data Engineer.
+* **Currently:** I am automating monthly closing processes and securing financial data reliability using **UiPath**, **Power Query**, and **SQL**.
+* **Learning:** Advanced Data Engineering (**Python**, **Docker**, **PostgreSQL**) and data architecture.
+* **Goal:** Become a Data Engineer.
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Data & Backend:**
 <br/>
@@ -79,7 +79,7 @@ My profile is hybrid: I combine technical expertise in development with an under
 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
-### 📂 Featured Projects
+### Featured Projects
 
 * **Weather Data ETL:** A complete ELT pipeline using Python, PostgreSQL, and Docker for logistics analysis.
 * **Portfolio:** My personal space built with React, TypeScript, and Framer Motion. [View website](https://zarathmgd.github.io/portfolio/)
