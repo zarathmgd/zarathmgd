@@ -13,33 +13,32 @@
 ## 🇫🇷 Version Française
 
 ### 🚀 À propos de moi
-Étudiant en **BTS SIO (option SLAM)** et **Major de promotion** (1er/28), je suis actuellement en alternance à la Direction Financière de **Disneyland Paris**.
+Étudiant en **BTS SIO (option SLAM)** et **Major de promotion**, je suis actuellement en alternance à la Direction Financière de **Disneyland Paris** en tant que **Financial Planning & Reporting Apprentice**.
 
 Mon profil est hybride : je combine une expertise technique en développement avec une compréhension des enjeux financiers (budgets, clôtures). Je vise désormais la **L3 MIAGE à la Sorbonne** pour me spécialiser en Ingénierie des Données.
 
-* 🔭 **En ce moment :** J'automatise les processus de clôture mensuelle et fiabilise les données financières via **UiPath**, **Power Query** et **SQL**.
+* 🔭 **En ce moment :** J'automatise les processus de clôture mensuelle et fiabilise les données financières.
 * 🌱 **J'apprends :** Le Data Engineering avancé (**Python**, **Docker**, **PostgreSQL**) et l'architecture de données.
-* 👯 **Je cherche à collaborer sur :** Des pipelines ETL open-source ou des projets de Data Visualization.
-* ⚡ **Fait amusant :** J'ai obtenu la note de **20/20** en Mathématiques pour l'Informatique !
+* 🎯 **Objectif :** Devenir un Data Engineer.
 
 ### 🛠️ Compétences Techniques
 
 **Data & Backend :**
 <br/>
-<img href= "#" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img href= "#" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img href= "#" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
 
 **BI & Automatisation :**
 <br/>
-<img href= "#" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img href= "#" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-<img href= "#" src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+<a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
+<a href="#"><img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" /></a>
 
 **Web & Frontend :**
 <br/>
-<img href= "#" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img href= "#" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
 ### 📂 Projets Phares
 
@@ -59,27 +58,26 @@ My profile is hybrid: I combine technical expertise in development with an under
 
 * 🔭 **Currently:** I am automating monthly closing processes and securing financial data reliability using **UiPath**, **Power Query**, and **SQL**.
 * 🌱 **Learning:** Advanced Data Engineering (**Python**, **Docker**, **PostgreSQL**) and data architecture.
-* 👯 **Looking to collaborate on:** Open-source ETL pipelines or Data Visualization projects.
-* ⚡ **Fun fact:** I achieved a **20/20** grade in Mathematics for Computer Science!
+* 🎯 **Goal:** Become a Data Engineer.
 
 ### 🛠️ Technical Stack
 
 **Data & Backend:**
 <br/>
-<img href= "#" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img href= "#" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img href= "#" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
 
 **BI & Automation:**
 <br/>
-<img href= "#" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img href= "#" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-<img href= "#" src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+<a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /></a>
+<a href="#"><img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" /></a>
 
 **Web & Frontend:**
 <br/>
-<img href= "#" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img href= "#" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 
 ### 📂 Featured Projects
 
